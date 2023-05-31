@@ -1,6 +1,6 @@
 <div align="center"><h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=1D56F7&width=335&lines=Hi!+I'm+Alexey+Kondratev" height=60  alt="Typing SVG" /></a>
  </h1>
-<h3 align="right"><img src="https://komarev.com/ghpvc/?username=samarec1812" alt="Profile Views"></h3>
+<h3 align="left"><img src="https://komarev.com/ghpvc/?username=samarec1812" alt="Profile Views"></h3>
 </div>
 
  
