@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 [![LeetCode user samarec1812](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnikitakosatka&logo=leetcode&logoColor=yellow)](https://leetcode.com/samarec1812/)
 
 
-**GitHub stats**
+<!-- **GitHub stats**
 <p align="center">
 [![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarec1812&show_icons=true&&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarec1812&layout=compact&theme=nightowl&show_icons=true&hide=python,c++)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</p> -->
 <!-- 
 # Hi there ❤️
 [![LeetCode user nikitakosatka](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnikitakosatka&logo=leetcode&logoColor=yellow)](https://leetcode.com/nikitakosatka/)
