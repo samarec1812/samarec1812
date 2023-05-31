@@ -21,4 +21,4 @@
 
 **Leetcode**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/samarec1812)](https://leetcode.com/samarec1812)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/samarec1812?ext=activity)](https://leetcode.com/samarec1812)
