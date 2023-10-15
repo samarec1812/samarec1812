@@ -6,7 +6,7 @@
  
 **About me:**
 
-- 👨‍💻 Devops Engineer in VTB
+- 👨‍💻 Go Developer in VK Tech
 - 👽 I’m currently learning Go, Flutter, Rust and Vuejs
 - 🤔 I’m interested in web development, DS and new technologies
 - 🧑‍🎓 Master Applied Mathematics and Computer Science in Moscow Power Engineering Institute(MPEI)
